@@ -19,7 +19,7 @@
 ❌ 
 
 ## Application link
-- [x] [Link do Surge](https:/labeXproject.surge.sh/) 🚀 
+- [x] [Surge Link](https:/labeXproject.surge.sh/) 🚀 
 
 ## To access the admin area
 - Login: projectlabeX@email.com
