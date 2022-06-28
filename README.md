@@ -22,7 +22,7 @@
 - [x] [Surge Link](https://labeXproject.surge.sh/) 🚀 
 
 ## To access the admin area
-- Login: projectlabeX@email.com
+- Login: projectlabex@email.com
 - Password: labeX
 
 ### Images
